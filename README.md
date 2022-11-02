@@ -1,16 +1,3 @@
-<style>
-a,a:hover {
-   	
-}
-span {
-   
-}
-svg {
-    
-	
-}
-</style>
-
 
 <a href="https://aprendible.com/" target="_blank" role="figure" style="width: 12rem;
 	color: rgb(218 221 223 );
